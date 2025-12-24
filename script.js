@@ -125,3 +125,5 @@ footerBtn3.addEventListener("click", async () => {
     alert('Ваш браузер не поддерживает Web Share API');
   }
 });
+
+
